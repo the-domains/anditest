@@ -1,0 +1,28 @@
+name: AndiTest
+favicon: null
+layout_spectrum: 0.20976430014707148
+typography_spectrum: 0.2335088716354221
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.8999165275599808
+  lightness: 0.9806316250469536
+  saturation: 0.1446113686542958
+  rhythmicContrast: 0.6870862839277834
+purpose: []
