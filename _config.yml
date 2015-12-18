@@ -2,6 +2,7 @@ name: AndiTest
 favicon: null
 layout_spectrum: 0.20976430014707148
 typography_spectrum: 0.2335088716354221
+title: WKFrontend
 cta:
   domain: null
   bucket: null
